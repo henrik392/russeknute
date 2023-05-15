@@ -1,0 +1,672 @@
+{
+  "GULLKNUTER": [
+    {
+      "title": "SUPER STAR",
+      "completed": false,
+      "challenge": "Gjennomf\u00f8r 50 russeknuter igjennom hele russetiden",
+      "reward": "Stjerne"
+    },
+    {
+      "title": "KONGLA",
+      "completed": false,
+      "challenge": "Ha frivillig sex i et tre (beskyttet sex p\u00e5 eget ansvar)",
+      "reward": "gullakkert kongle"
+    },
+    {
+      "title": "4+4+4+4+4+4",
+      "completed": false,
+      "challenge": "Ta 24 knuter p\u00e5 24 timer",
+      "reward": "fire tannpirkere"
+    },
+    {
+      "title": "TATOVERINGEN",
+      "completed": false,
+      "challenge": "Tatover \u00abRT23\u00bb et sted p\u00e5 kroppen. (NB! Eget ansvar. Tenk deg om!)",
+      "reward": "markeringstusj kort"
+    },
+    {
+      "title": "ID",
+      "completed": false,
+      "challenge": "Klin med et styremedlem",
+      "reward": "russekortet til styremedlemmet med signatur"
+    },
+    {
+      "title": "HVIT CHAMPAGNEKORK",
+      "completed": false,
+      "challenge": "Ha sikker sex med presidenten i Russens Hovedstyre",
+      "reward": "hvit vinkork"
+    },
+    {
+      "title": "CHAMPAGNEKORK",
+      "completed": false,
+      "challenge": "Ha sikker sex med et medlem av Russens Hovedstyre",
+      "reward": "champagnekork"
+    },
+    {
+      "title": "KASSA",
+      "completed": false,
+      "challenge": "Drikk 24 \u00f8l p\u00e5 24 timer",
+      "reward": "\u00f8l kork"
+    },
+    {
+      "title": "10 SHOTS",
+      "completed": false,
+      "challenge": "10 shots p\u00e5 2 minutt (p\u00e5 eget ansvar)",
+      "reward": "enhet korken"
+    }
+  ],
+  "OMSORGS KNUTER": [
+    {
+      "title": "ROSEBUKETTEN",
+      "completed": false,
+      "challenge": "Send en rose til en person du er glad i og beundrer",
+      "reward": "roseblad"
+    },
+    {
+      "title": "VALENTINE",
+      "completed": false,
+      "challenge": "Send blomster til en hemmelig beundrer",
+      "reward": "stilk fra buketten"
+    },
+    {
+      "title": "FOODORA",
+      "completed": false,
+      "challenge": "Bestill takeaway mat hjem til en du er glad i",
+      "reward": "plast gaffel"
+    },
+    {
+      "title": "GODT LEVERT",
+      "completed": false,
+      "challenge": "Kj\u00f8p mat til noen som trenger det",
+      "reward": "kvittering"
+    },
+    {
+      "title": "FRETEX",
+      "completed": false,
+      "challenge": "Doner en pose med kl\u00e6r eller et teppe til Fretex eller en hjeml\u00f8s",
+      "reward": "love hearts"
+    },
+    {
+      "title": "LOLIPOP",
+      "completed": false,
+      "challenge": "Spandere is p\u00e5 en hel barnehage (m\u00e5 v\u00e6re planlagt og organisert)",
+      "reward": "Ispinne"
+    },
+    {
+      "title": "SYKEHUS KLOVN",
+      "completed": false,
+      "challenge": "Del ut russekort til barn p\u00e5 sykehus, m\u00e5 v\u00e6re i edru tilstand",
+      "reward": "bandasje"
+    },
+    {
+      "title": "LYKKEHJUL",
+      "completed": false,
+      "challenge": "Arranger et kakesalg, der profitten g\u00e5r til en valgfri veldedig organisasjon",
+      "reward": "Logo til organisasjonen"
+    },
+    {
+      "title": "SMIL, DU HAR GJORT EN GOD DEL",
+      "completed": false,
+      "challenge": "Gj\u00f8r en positiv handling for ditt n\u00e6rmilj\u00f8.",
+      "reward": "stearinlys"
+    }
+  ],
+  "ENKLE KNUTER": [
+    {
+      "title": "D\u00c5PEN",
+      "completed": false,
+      "challenge": "Gjennomf\u00f8r russed\u00e5p med dine medruss",
+      "reward": "navn p\u00e5 russeluen"
+    },
+    {
+      "title": "BOMULLSDOTT",
+      "completed": false,
+      "challenge": "Ta vaksine mot hjernehinnebetennelse",
+      "reward": ""
+    },
+    {
+      "title": "AMNESTY \u2013 LOGO",
+      "completed": false,
+      "challenge": "Stryk \u00abNEI er NEI\u00bb merket fra Amnesty p\u00e5 russedressen",
+      "reward": "NEI er NEI"
+    },
+    {
+      "title": "LITEN B\u00d8SSE",
+      "completed": false,
+      "challenge": "Delta p\u00e5 krafttak mot kreft",
+      "reward": "lille b\u00f8rsa"
+    },
+    {
+      "title": "MORGENFUGL",
+      "completed": false,
+      "challenge": "Kick start f\u00f8rste dag av russetiden, med et forfriskende morgen bad i havet/fjorden",
+      "reward": "badeand"
+    },
+    {
+      "title": "EN KRONING",
+      "completed": false,
+      "challenge": "Betal i kantinen med kun en kroninger",
+      "reward": "en kroning"
+    },
+    {
+      "title": "SELFIE",
+      "completed": false,
+      "challenge": "Ta en selfie med en politi betjent",
+      "reward": "selfien"
+    },
+    {
+      "title": "PROPP",
+      "completed": false,
+      "challenge": "Alltid bruk \u00f8repropper eller h\u00f8rselsvern p\u00e5 rulling",
+      "reward": "\u00f8repropp"
+    },
+    {
+      "title": "KREFTFORENINGEN",
+      "completed": false,
+      "challenge": "Delta p\u00e5 krafttak mot kreft",
+      "reward": "liten b\u00f8sse"
+    },
+    {
+      "title": "FOREVER YOUNG",
+      "completed": false,
+      "challenge": "Sett en n\u00f8kkell\u00e5s til en bru, med din beste barndomsvenn",
+      "reward": "n\u00f8kkelen"
+    },
+    {
+      "title": "AUTOGRAFEN",
+      "completed": false,
+      "challenge": "Samle 10 underskrifter fra det motsatte kj\u00f8nn p\u00e5 undert\u00f8yet",
+      "reward": ""
+    },
+    {
+      "title": "PANTE LOTTERIET",
+      "completed": false,
+      "challenge": "Pant panten etter g\u00e5rsdagens festligheter, doneres til R\u00f8de kros sitt pantelodd",
+      "reward": "kvittering"
+    },
+    {
+      "title": "CHUGGEREN",
+      "completed": false,
+      "challenge": "Putt to tamponger i munnen og chugg en enhet \u00f8l eller cider",
+      "reward": "tampong"
+    },
+    {
+      "title": "FL\u00d8RTE PUS",
+      "completed": false,
+      "challenge": "Fl\u00f8rt \u00e5penlyst med l\u00e6reren i timen og takk for g\u00e5rsdagen",
+      "reward": "l\u00e6reren sin signatur"
+    },
+    {
+      "title": "SP\u00c5 DAMEN",
+      "completed": false,
+      "challenge": "Overbevis en fremmed om at dere kjenner hverandre fra deres forje liv",
+      "reward": "klinkekule"
+    },
+    {
+      "title": "KAMMERAT",
+      "completed": false,
+      "challenge": "G\u00e5 en hel dag \u00e5 hils p\u00e5 alle du ser",
+      "reward": "smilie"
+    },
+    {
+      "title": "KRABBEREN",
+      "completed": false,
+      "challenge": "Krabb fra kantinen til klasserommet ditt",
+      "reward": "skolisser"
+    },
+    {
+      "title": "HANDLEVOGNEN",
+      "completed": false,
+      "challenge": "Kj\u00f8p en Happy Meal imens du kj\u00f8rer i handlevogn gjennom Drive-troughten p\u00e5 McDonalds",
+      "reward": "Happy Meal leken"
+    },
+    {
+      "title": "WOLT",
+      "completed": false,
+      "challenge": "Bestill takeaway mat ved bruk av et annet spr\u00e5k",
+      "reward": "Norsk kakeflagg"
+    },
+    {
+      "title": "KLASSEFEST",
+      "completed": false,
+      "challenge": "Arranger noe sosialt og koselig for klassen, i l\u00f8pet av russetiden. Fin avslutning",
+      "reward": "bilde av aktiviteten"
+    }
+  ],
+  "DOBBEL KNUTER": [
+    {
+      "title": "TI KRONING",
+      "completed": false,
+      "challenge": "Kom i kantinen og prut prisen ned 10 kroner",
+      "reward": "ti kroning"
+    },
+    {
+      "title": "SESJON",
+      "completed": false,
+      "challenge": "10 push ups i kantina i lunsjen",
+      "reward": ""
+    },
+    {
+      "title": "GLATTCELLA",
+      "completed": false,
+      "challenge": "G\u00e5 i h\u00e5ndjern en hel dag, med en medelev (beregne samme skoledag, skoletimer)",
+      "reward": "lego h\u00e5ndjern"
+    },
+    {
+      "title": "LOKOMOTIV",
+      "completed": false,
+      "challenge": "russekort eller si et eneste ord",
+      "reward": "barneleker"
+    },
+    {
+      "title": "LIKE BARN LEKER BEST",
+      "completed": false,
+      "challenge": "Drikk fra en baby flaske en hel skole dag, inkludert fest p\u00e5 kvelden",
+      "reward": "smukk"
+    },
+    {
+      "title": "SKRUBBS\u00c5R",
+      "completed": false,
+      "challenge": "Ring p\u00e5 til et hus og sp\u00f8r om et plaster",
+      "reward": "Plaster"
+    },
+    {
+      "title": "RULLESKO",
+      "completed": false,
+      "challenge": "Ta nytte av rullesko/rullesk\u00f8yter n\u00e5r du handler drikke p\u00e5 vinmonopolet",
+      "reward": "lego hjul"
+    },
+    {
+      "title": "KIM K",
+      "completed": false,
+      "challenge": "F\u00e5 rektor sin autograf plassert p\u00e5 baken p\u00e5 dressen",
+      "reward": "rektor sin autograf"
+    },
+    {
+      "title": "ISBILEN",
+      "completed": false,
+      "challenge": "Spis to liter is i l\u00f8pet av en skoletime",
+      "reward": "etiketten"
+    },
+    {
+      "title": "SVETT DRESS",
+      "completed": false,
+      "challenge": "Behold dressen p\u00e5 hver gymtime",
+      "reward": "sure f\u00f8tter"
+    },
+    {
+      "title": "L\u00d8NNING",
+      "completed": false,
+      "challenge": "Kj\u00f8p lunsj til en medelev",
+      "reward": "melkehjerte"
+    },
+    {
+      "title": "RING P\u00c5 SPRING",
+      "completed": false,
+      "challenge": "L\u00f8p inn til naboen og sp\u00f8r om \u00e5 f\u00e5 et glass saft",
+      "reward": "saftkork"
+    },
+    {
+      "title": "SISTEN",
+      "completed": false,
+      "challenge": "G\u00e5 igjennom skoleg\u00e5rden til barneskolen \u00e5 gi russekort til barna",
+      "reward": "kj\u00e6rlighet p\u00e5 pinne"
+    },
+    {
+      "title": "KLAMMA TESTEN",
+      "completed": false,
+      "challenge": "Test deg for kj\u00f8nnssjukdommer l\u00f8pet av russetiden",
+      "reward": "testen"
+    },
+    {
+      "title": "TYVEN",
+      "completed": false,
+      "challenge": "Svindle til deg et russekort fra et barn",
+      "reward": "russekortet"
+    },
+    {
+      "title": "HJ\u00d8RNET",
+      "completed": false,
+      "challenge": "Tilbring en hel skoletime bakerst i klasserommet til en vg1 klasse uten \u00e5 si noe",
+      "reward": "tr\u00e5"
+    },
+    {
+      "title": "BADELANDA",
+      "completed": false,
+      "challenge": "Bade to og to i et oppbl\u00e5sbart badebasseng f\u00f8r skolen eller i matfri",
+      "reward": "badeleke"
+    },
+    {
+      "title": "KONDOMERIET",
+      "completed": false,
+      "challenge": "Kj\u00f8p en pakke kondomer, ved kun bruk av kroppss\u00e5rk",
+      "reward": "u\u00e5pnet kondom"
+    },
+    {
+      "title": "APOTEK 1",
+      "completed": false,
+      "challenge": "Kj\u00f8p en angrepille kun ved bruk av kroppsspr\u00e5k",
+      "reward": "angrepillen"
+    },
+    {
+      "title": "L\u00c6RERINNA",
+      "completed": false,
+      "challenge": "Be om sex tips fra en l\u00e6rer",
+      "reward": "binders"
+    },
+    {
+      "title": "CHUGGEN",
+      "completed": false,
+      "challenge": "Chugg en halvliter p\u00e5 10 sekunder",
+      "reward": "kork \u00e5pner"
+    },
+    {
+      "title": "MILLA",
+      "completed": false,
+      "challenge": "Barber av alt h\u00e5ret",
+      "reward": "bukett med h\u00e5rstr\u00e5"
+    },
+    {
+      "title": "NASJONALDAG",
+      "completed": false,
+      "challenge": "Spis to liters is i l\u00f8pet av en skoletime",
+      "reward": "Norges flagg"
+    },
+    {
+      "title": "TRE KJAPPE",
+      "completed": false,
+      "challenge": "(1 date m\u00e5 vare i minimum 3 minutter)",
+      "reward": "nox papir"
+    },
+    {
+      "title": "HELE NORGE",
+      "completed": false,
+      "challenge": "Snakk en annen dialekt en hel dag, inkludert hele kvelden",
+      "reward": "twist sjokolade"
+    },
+    {
+      "title": "SKOLE BUFFET",
+      "completed": false,
+      "challenge": "Lag frokost til favoritt l\u00e6reren din",
+      "reward": "br\u00f8dskalk"
+    },
+    {
+      "title": "HAR DEN",
+      "completed": false,
+      "challenge": "Lek sisten p\u00e5 IKEA med minst 10 personer",
+      "reward": "IKEA p\u00f8lse papir"
+    },
+    {
+      "title": "BURGER KING / QUEEN",
+      "completed": false,
+      "challenge": "Spis en cheeseburger p\u00e5 to bit",
+      "reward": "gummi godteri burger"
+    },
+    {
+      "title": "HEMMELIG GJEST",
+      "completed": false,
+      "challenge": "Sov hos en russ uten at han/hun vet det, dermed vekk vedkommende med frokost eller drikke servert p\u00e5 sengen morningen etter",
+      "reward": "bit av et knekkebr\u00f8d"
+    },
+    {
+      "title": "GODT OG BLANDET",
+      "completed": false,
+      "challenge": "F\u00e5 signaturen til alle l\u00e6rerene dine p\u00e5 russedressen",
+      "reward": "signaturen til l\u00e6rerene dine"
+    },
+    {
+      "title": "FORELDRE RULLING",
+      "completed": false,
+      "challenge": "Inviter foreldrene til gruppen med p\u00e5 rulling",
+      "reward": "fj\u00e6r"
+    },
+    {
+      "title": "FORELDRE VORS",
+      "completed": false,
+      "challenge": "Inviter enten mor eller far, evt begge med p\u00e5 vors, de m\u00e5 bli i minimum 2 timer",
+      "reward": "tannpirker"
+    }
+  ],
+  "TRIPLE KNUTER": [
+    {
+      "title": "BORDET",
+      "completed": false,
+      "challenge": "Bruk hele lunsjen p\u00e5 \u00e5 sitte med 06 bordet",
+      "reward": "tyggis pakke"
+    },
+    {
+      "title": "BLIND DATE",
+      "completed": false,
+      "challenge": "(m\u00e5 gjennomf\u00f8res en hel lunsj)",
+      "reward": "roseblad"
+    },
+    {
+      "title": "SNUSLEPPEN",
+      "completed": false,
+      "challenge": "Beholde samme snus en hel skoledag",
+      "reward": "snus"
+    },
+    {
+      "title": "HELSES\u00d8STER",
+      "completed": false,
+      "challenge": "Ha seksual undervisning for vg1 eller vg 2 klasser (samtykke og planlagt med l\u00e6rer)",
+      "reward": "tampong"
+    },
+    {
+      "title": "TEAMS",
+      "completed": false,
+      "challenge": "Si nei til alle du m\u00f8ter p\u00e5 en kveld ute",
+      "reward": "\u00abnei er nei\u00bb tag"
+    },
+    {
+      "title": "ICE ICE BABY",
+      "completed": false,
+      "challenge": "Gi is og russekort til en barnehage (m\u00e5 gis til ledelsen i barnehage og kun etter avtale)",
+      "reward": "Bit av is kartong"
+    },
+    {
+      "title": "NORSK VIKAREN",
+      "completed": false,
+      "challenge": "Svar feil en hel skoletime, v\u00e6r aktiv og svar feil med vilje",
+      "reward": "blyant kvesser"
+    },
+    {
+      "title": "LIKE BARN LEKER BEST",
+      "completed": false,
+      "challenge": "Ring p\u00e5 10 d\u00f8rer \u00e5 sp\u00f8r om de vil v\u00e6re med ut \u00e5 leke",
+      "reward": "Lego"
+    },
+    {
+      "title": "VIXEN",
+      "completed": false,
+      "challenge": "F\u00e5 autografen til en B \u2013 kjendis p\u00e5 dressen",
+      "reward": "signatur"
+    },
+    {
+      "title": "1881",
+      "completed": false,
+      "challenge": "Ring 1881, be de g\u00e5 inn p\u00e5 Vestruss sine \u00e5rets knuter, og la de anbefale deg de tre beste knutene (disse tre knutene m\u00e5 gjennomf\u00f8res)",
+      "reward": "leke telefon"
+    },
+    {
+      "title": "SIGURD F\u00c5R IKKE PULT",
+      "completed": false,
+      "challenge": "Sitt under pulten en hel skoledag",
+      "reward": "viskel\u00e6r"
+    },
+    {
+      "title": "BJ\u00d8RK",
+      "completed": false,
+      "challenge": "Sitte i et tre, tre timer f\u00f8r skolen starter",
+      "reward": "kvist"
+    },
+    {
+      "title": "VG LUNSJ",
+      "completed": false,
+      "challenge": "Betal en frivillig lunsj til en vg 1 eller vg 2 elev",
+      "reward": "kvittering"
+    },
+    {
+      "title": "TINDER SVINDLEREN",
+      "completed": false,
+      "challenge": "Spring en totaldistanse p\u00e5 12 km gjennom hele russetiden",
+      "reward": "svette armband"
+    },
+    {
+      "title": "FUNKY G",
+      "completed": false,
+      "challenge": "Trene minst tre ganger hver uke i l\u00f8pet av hele russetiden",
+      "reward": "svettearmb\u00e5nd"
+    },
+    {
+      "title": "HAVFRUEN",
+      "completed": false,
+      "challenge": "Bade i Ole Bull fontenen",
+      "reward": "badeand"
+    },
+    {
+      "title": "SIGNERT KVITTERING",
+      "completed": false,
+      "challenge": "Spander nattmat p\u00e5 et medlem av Russestyret",
+      "reward": "kvitteringen"
+    },
+    {
+      "title": "ENKEL X 4 KNUTE",
+      "completed": false,
+      "challenge": "Hold deg edru gjennom hele russetiden",
+      "reward": "vannflaske kork"
+    },
+    {
+      "title": "MOT - LOGO",
+      "completed": false,
+      "challenge": "Ikke ta nytte av rusmidler gjennom hele russetiden",
+      "reward": "MOT merke"
+    },
+    {
+      "title": "PRESIS",
+      "completed": false,
+      "challenge": "Null frav\u00e6r gjennom hele russetiden",
+      "reward": "kakelys"
+    },
+    {
+      "title": "IKKE LOVLIG ENDA ...",
+      "completed": false,
+      "challenge": "Unng\u00e5 seksuell kontakt eller handling gjennom hele russetiden",
+      "reward": "u\u00e5pnet kondom"
+    },
+    {
+      "title": "BOSS BIL",
+      "completed": false,
+      "challenge": "Plukke s\u00f8ppel i sentrum i 15 minutter",
+      "reward": "bit av et matavfall pose"
+    },
+    {
+      "title": "R\u00d8D L\u00d8PER",
+      "completed": false,
+      "challenge": "F\u00e5 autografen til en A \u2013 kjendis p\u00e5 dressen",
+      "reward": "Signatur"
+    },
+    {
+      "title": "LARS MONSEN",
+      "completed": false,
+      "challenge": "Telte p\u00e5 skolen f\u00f8r skolen",
+      "reward": "blad"
+    },
+    {
+      "title": "VORSTID",
+      "completed": false,
+      "challenge": "Inviter en hel russegruppe, utenom din egen p\u00e5 vors",
+      "reward": "russestickers/signatur p\u00e5 dressen"
+    },
+    {
+      "title": "TILBAKE TIL F\u00d8RSTE KLASSE",
+      "completed": false,
+      "challenge": "Inviter hele klassen p\u00e5 vors eller rulling for en kveld",
+      "reward": "fargestift"
+    },
+    {
+      "title": "BLYANT",
+      "completed": false,
+      "challenge": "Ha sikker sex p\u00e5 skolens omr\u00e5de (kan ikke v\u00e6re offentlig)",
+      "reward": "blyant"
+    },
+    {
+      "title": "BAKERI",
+      "completed": false,
+      "challenge": "G\u00e5 med to br\u00f8d som sko en hel skoledag",
+      "reward": "br\u00f8dskalk"
+    },
+    {
+      "title": "LIVE",
+      "completed": false,
+      "challenge": "Fremf\u00f8r live konsert i kantina foran alle i lunsj pausen",
+      "reward": "liten disco kule"
+    },
+    {
+      "title": "THE VOICE",
+      "completed": false,
+      "challenge": "Hold en tale foran minst 50 personer",
+      "reward": "mikrofon"
+    },
+    {
+      "title": "POST IT",
+      "completed": false,
+      "challenge": "Skriv en lapp til fem medelever om hvor mye du digger de, og hvor mye de har betydd for deg gjennom 3 \u00e5r p\u00e5 videreg\u00e5ende",
+      "reward": "post it lapp"
+    },
+    {
+      "title": "KATETER",
+      "completed": false,
+      "challenge": "G\u00e5 frem til l\u00e6rerens kateter under undervisning. Ta s\u00e5 mange pushups du klarer for \u00e5 s\u00e5 g\u00e5 \u00e5 sette deg tilbake p\u00e5 plassen din",
+      "reward": "r\u00f8d penn"
+    },
+    {
+      "title": "5 MILA",
+      "completed": false,
+      "challenge": "Rull en hel natt, fra skoleslutt til skolestart",
+      "reward": "lekebuss"
+    },
+    {
+      "title": "\u00c5RETS TAKEAWAY",
+      "completed": false,
+      "challenge": "Invitasjon til vorset n\u00e5r han/hun ankommer",
+      "reward": "kvittering"
+    },
+    {
+      "title": "KLASSENS ENGLEBARN",
+      "completed": false,
+      "challenge": "F\u00e5 kun 6 ere p\u00e5 pr\u00f8vene og innleveringene i russetiden",
+      "reward": "karakterutskrift"
+    },
+    {
+      "title": "TEAM INGEBRIGTSEN",
+      "completed": false,
+      "challenge": "Spring en total distanse p\u00e5 42 km i l\u00f8pet av hele russetiden",
+      "reward": "svette h\u00e5rband"
+    },
+    {
+      "title": "ROSA MONSEN",
+      "completed": false,
+      "challenge": "Telt i hagen til favorittl\u00e6reren din",
+      "reward": "binders"
+    },
+    {
+      "title": "BIT AV BUTIKK POSEN",
+      "completed": false,
+      "challenge": "Late som du jobber p\u00e5 en dagligvarebutikk i 60 minutter",
+      "reward": "butikk posen"
+    },
+    {
+      "title": "CAFE ALA NEW",
+      "completed": false,
+      "challenge": "Late som du jobber p\u00e5 en lokal kafe i 20 minutter",
+      "reward": "sukkerbit"
+    },
+    {
+      "title": "2000 METEREN",
+      "completed": false,
+      "challenge": "L\u00f8p fem runder rundt en friidrettsbane og chug en enhet rusbrus eller \u00f8l for hver runde",
+      "reward": "boksring, \u00e5pning til drikken"
+    }
+  ]
+}
