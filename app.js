@@ -22,6 +22,32 @@
 //     });
 //   });
 
+const statusToColor = {
+    "incomplete": {
+        "bg": "white",
+        "text": "black"
+    },
+    "completed": {
+        "bg": "green",
+        "text": "white"
+    },
+    "in-progress": {
+        "bg": "yellow",
+        "text": "black"
+    },
+    "hard": {
+        "bg": "red",
+        "text": "white"
+    }
+};
+
+const statusIDToStatus = {
+    0: "incomplete",
+    1: "completed",
+    2: "in-progress",
+    3: "hard"
+};
+
 fetch('challenges.json')
     .then(response => response.json())
     .then(data => {
@@ -37,11 +63,13 @@ fetch('challenges.json')
 
             category.forEach((challenge, j) => {
                 // Check if the challenge status is stored in local storage
-                const completed = localStorage.getItem(`completed-${i}-${j}`) === 'true';
+                let statusID = localStorage.getItem(`status-${i}-${j}`);
+                statusID = statusID ? parseInt(statusID) : 0;
+                console.log(statusID);
+                const status = statusIDToStatus[statusID];
                 const row = table.insertRow();
-                row.dataset.completed = completed;
-                row.style.backgroundColor = completed ? 'green' : 'white';
-                row.style.color = completed ? 'white' : 'black';
+                row.style.backgroundColor = statusToColor[status]['bg'];
+                row.style.color = statusToColor[status]['text'];
 
                 const titleCell = row.insertCell(0);
                 const challengeCell = row.insertCell(1);
@@ -52,12 +80,15 @@ fetch('challenges.json')
                 rewardCell.textContent = challenge.reward;
 
                 row.addEventListener('click', () => {
-                    const completed = row.dataset.completed === 'true';
-                    row.dataset.completed = !completed;
-                    row.style.backgroundColor = !completed ? 'green' : 'white';
-                    row.style.color = !completed ? 'white' : 'black';
-                    // Store the challenge status in local storage
-                    localStorage.setItem(`completed-${i}-${j}`, String(!completed));
+                    let statusID = localStorage.getItem(`status-${i}-${j}`);
+                    statusID = statusID ? (parseInt(statusID) + 1) % Object.keys(statusIDToStatus).length  : 1;
+
+                    const status = statusIDToStatus[statusID];
+
+                    row.style.backgroundColor = statusToColor[status]['bg'];
+                    row.style.color = statusToColor[status]['text'];
+
+                    localStorage.setItem(`status-${i}-${j}`, String(statusID));
                 });
             });
         });
